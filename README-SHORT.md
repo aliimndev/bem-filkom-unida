@@ -1,0 +1,108 @@
+# BEM FILKOM UNIDA Website
+
+Website resmi Badan Eksekutif Mahasiswa Fakultas Ilmu Komputer Universitas Djuanda dengan Kabinet Neogenesis.
+
+## 🚀 Quick Start
+
+```bash
+# Install dependencies
+pnpm install
+
+# Start development server
+pnpm dev
+
+# Build for production
+pnpm build
+
+# Start production server
+pnpm start
+```
+
+## 📁 Project Structure
+
+```
+builder-app/
+├── client/                 # Frontend React App
+│   ├── components/         # Reusable Components
+│   │   ├── effects/       # Animation Effects (Plexus, CursorGlow, Reveal)
+│   │   ├── layout/        # Layout Components (Header, Footer, Layout)
+│   │   └── ui/           # UI Components (Button, Card, Badge, etc.)
+│   ├── pages/            # Page Components (Index, About, Contact, etc.)
+│   ├── hooks/            # Custom React Hooks
+│   ├── lib/              # Utility Functions
+│   └── global.css        # Global Styles & Animations
+├── server/               # Backend Express App
+│   ├── routes/           # API Routes
+│   └── lib/              # Server Utilities
+├── public/               # Static Assets
+│   └── assets/           # Images, Videos, Audio
+└── shared/               # Shared Code
+```
+
+## 🎨 Features
+
+- **Plexus Effect Background**: Interactive animated network
+- **Cursor Glow Effect**: Spotlight following mouse movement
+- **Glass Morphism Design**: Modern glass-like UI elements
+- **Responsive Design**: Mobile-first approach
+- **Email Integration**: Contact form with email service
+- **Smooth Animations**: Framer Motion powered animations
+
+## 🛠️ Tech Stack
+
+- React 18 + TypeScript
+- Vite + Express.js
+- Tailwind CSS + Radix UI
+- Framer Motion
+- Nodemailer
+
+## 📄 Pages
+
+- **Homepage**: Hero, Timeline, Programs, Vision & Mission
+- **About**: Leadership profiles and organization structure
+- **Divisions**: Information about BEM divisions
+- **Gallery**: Photo gallery and media
+- **Contact**: Contact form and information
+
+## 🔧 Environment Setup
+
+Create `.env` file:
+```env
+EMAIL_HOST=smtp.gmail.com
+EMAIL_PORT=587
+EMAIL_USER=your-email@gmail.com
+EMAIL_PASS=your-app-password
+EMAIL_FROM=your-email@gmail.com
+EMAIL_TO=admin@bemfilkom.com
+PORT=3000
+NODE_ENV=development
+```
+
+## 📱 Deployment
+
+### Netlify (Recommended)
+- Build command: `pnpm build`
+- Publish directory: `dist/spa`
+- Environment variables: Set in Netlify dashboard
+
+### Vercel
+- Framework: Vite
+- Build command: `pnpm build`
+- Output directory: `dist/spa`
+
+## 🤝 Contributing
+
+1. Fork the repository
+2. Create feature branch: `git checkout -b feature/amazing-feature`
+3. Commit changes: `git commit -m 'Add amazing feature'`
+4. Push branch: `git push origin feature/amazing-feature`
+5. Open Pull Request
+
+## 📞 Support
+
+- Email: bem.filkom@unida.ac.id
+- GitHub Issues: [Repository Issues](https://github.com/your-repo/issues)
+
+---
+
+**BEM FILKOM UNIDA** - Menumbuhkan Generasi Baru, Mewujudkan Inovasi Nyata 🚀

@@ -65,7 +65,7 @@ export default function Reveal({
     <Comp
       ref={ref}
       className={cn(
-        "transition-all duration-700 ease-[cubic-bezier(0.22,1,0.36,1)] will-change-transform",
+        "transition-all duration-700 [transition-timing-function:cubic-bezier(0.22,1,0.36,1)] will-change-transform",
         className,
       )}
       style={visible ? final : initial}
