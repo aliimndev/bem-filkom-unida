@@ -1,14 +1,6 @@
 # 🌟 BEM FILKOM UNIDA - Website Resmi
 
-![React](https://img.shields.io/badge/React-18-blue?style=for-the-badge&logo=react&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![Vite](https://img.shields.io/badge/Vite-F7B84B?style=for-the-badge&logo=vite&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Radix UI](https://img.shields.io/badge/Radix_UI-000000?style=for-the-badge&logo=radix-ui&logoColor=white)
-
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemailer](https://img.shields.io/badge/Nodemailer-00D4AA?style=for-the-badge&logo=nodemailer&logoColor=white) ![CORS](https://img.shields.io/badge/CORS-4A90E2?style=for-the-badge&logo=cors&logoColor=white)
-
-![Prettier](https://img.shields.io/badge/Prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white) ![Vitest](https://img.shields.io/badge/Vitest-FFD700?style=for-the-badge&logo=vitest&logoColor=black) ![PostCSS](https://img.shields.io/badge/PostCSS-DC3C00?style=for-the-badge&logo=postcss&logoColor=white)
-
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![React](https://img.shields.io/badge/React-18-blue?style=for-the-badge&logo=react&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![Vite](https://img.shields.io/badge/Vite-F7B84B?style=for-the-badge&logo=vite&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Radix UI](https://img.shields.io/badge/Radix_UI-000000?style=for-the-badge&logo=radix-ui&logoColor=white)![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemailer](https://img.shields.io/badge/Nodemailer-00D4AA?style=for-the-badge&logo=nodemailer&logoColor=white) ![CORS](https://img.shields.io/badge/CORS-4A90E2?style=for-the-badge&logo=cors&logoColor=white)![Prettier](https://img.shields.io/badge/Prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white) ![Vitest](https://img.shields.io/badge/Vitest-FFD700?style=for-the-badge&logo=vitest&logoColor=black) ![PostCSS](https://img.shields.io/badge/PostCSS-DC3C00?style=for-the-badge&logo=postcss&logoColor=white)![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 Website resmi Badan Eksekutif Mahasiswa Fakultas Ilmu Komputer Universitas Djuanda dengan Kabinet Neogenesis. Dibangun dengan teknologi modern untuk memberikan pengalaman pengguna yang optimal.
 
@@ -65,7 +57,7 @@ Website resmi Badan Eksekutif Mahasiswa Fakultas Ilmu Komputer Universitas Djuan
 ## 📁 Struktur Proyek
 
 ```
-builder-app/
+bem-filkom-unida/
 ├── client/                 # Frontend React App
 │   ├── components/         # Reusable Components
 │   │   ├── effects/       # Animation Effects
@@ -93,7 +85,7 @@ builder-app/
 ### 1. Clone Repository
 ```bash
 git clone <repository-url>
-cd builder-app
+cd bem-filkom-unida
 ```
 
 ### 2. Install Dependencies
@@ -151,7 +143,6 @@ npm start
 ### 👥 **About**
 - Kata pengantar dekan dan wakil dekan
 - Profil ketua dan wakil ketua
-- Struktur organisasi
 - Sejarah BEM FILKOM
 
 ### 🏢 **Divisions**
