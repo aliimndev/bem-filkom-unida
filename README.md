@@ -279,7 +279,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 Untuk pertanyaan atau dukungan teknis:
 - Email: bem.filkom@unida.ac.id
-- GitHub Issues: [Repository Issues](https://github.com/your-repo/issues)
+- GitHub Issues: [Repository Issues](https://github.com/aliimndev/bem-filkom-unida.git/issues)
 
 ---
 
